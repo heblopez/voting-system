@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/candidate.tsx","./src/components/filtro.tsx","./src/components/totalvotos.tsx","./src/components/votosindividuales.tsx","./src/context/votingcontext.tsx","./src/hooks/usevoting.ts"],"version":"5.6.2"}
