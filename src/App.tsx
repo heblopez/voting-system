@@ -7,7 +7,7 @@ import VotosIndividuales from "./components/VotosIndividuales";
 const App = () => {
   return (
     <VotingProvider>
-      <div className="p-4 bg-gray-100 w-full max-w-screen-md text-center min-h-screen">
+      <div className="p-4 bg-gray-100 w-full max-w-screen-md text-center min-h-screen content-center">
         <h1 className="text-3xl font-bold text-center mb-6">
           Sistema de Votaciones
         </h1>
